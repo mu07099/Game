@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_radar_controller","order":1,"path":"objects/obj_radar_controller/obj_radar_controller.yy",},
+    {"name":"Obj_Zombie","order":2,"path":"objects/Obj_Zombie/Obj_Zombie.yy",},
+    {"name":"take_damage_2","order":3,"path":"scripts/take_damage_2/take_damage_2.yy",},
+    {"name":"take_damage","order":4,"path":"scripts/take_damage/take_damage.yy",},
+  ],
+}

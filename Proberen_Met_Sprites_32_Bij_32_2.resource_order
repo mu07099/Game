@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Achteren_Slaan","order":1,"path":"sprites/Achteren_Slaan/Achteren_Slaan.yy",},
+    {"name":"Rechts_Slaan","order":3,"path":"sprites/Rechts_Slaan/Rechts_Slaan.yy",},
+    {"name":"Voren_Slaan","order":2,"path":"sprites/Voren_Slaan/Voren_Slaan.yy",},
+  ],
+}
