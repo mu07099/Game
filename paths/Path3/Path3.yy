@@ -1,0 +1,20 @@
+{
+  "$GMPath":"",
+  "%Name":"Path3",
+  "closed":false,
+  "kind":0,
+  "name":"Path3",
+  "parent":{
+    "name":"Zombies",
+    "path":"folders/Sprites/Zombies.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":399.6925,"y":242.46063,},
+    {"speed":100.0,"x":365.3011,"y":242.95966,},
+    {"speed":100.0,"x":366.0,"y":310.0,},
+    {"speed":100.0,"x":397.78973,"y":309.82245,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

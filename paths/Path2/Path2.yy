@@ -1,0 +1,18 @@
+{
+  "$GMPath":"",
+  "%Name":"Path2",
+  "closed":false,
+  "kind":0,
+  "name":"Path2",
+  "parent":{
+    "name":"Zombies",
+    "path":"folders/Objects/Zombies.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":206.59235,"y":346.61853,},
+    {"speed":100.0,"x":206.62543,"y":246.23969,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
