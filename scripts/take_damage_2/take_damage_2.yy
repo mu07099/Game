@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"take_damage_2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"take_damage_2",
+  "parent":{
+    "name":"Zombies",
+    "path":"folders/Objects/Zombies.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
